@@ -1,5 +1,7 @@
 # Termnetd: Network serial port daemon
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70ba0f08f4af44b187db549c9be4cf0b)](https://app.codacy.com/gh/BAN-AI-Communications/termnetd?utm_source=github.com&utm_medium=referral&utm_content=BAN-AI-Communications/termnetd&utm_campaign=Badge_Grade_Settings)
+
 Termnetd (aka termpkg apparently) is a cool little application that lets you
 stream serial port data over the network. It's a terminal server daemon that
 exposes the serial port and tty devices directly to a network port.
