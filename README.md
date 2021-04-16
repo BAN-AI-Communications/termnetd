@@ -17,9 +17,9 @@ platform detected and run the `make` command:
 
 ## Configuration
 
-Once installed, the configuration file, `/etc/termnetd.conf`, can be edited
-to configure which serial port maps to which network port. It can be used to
-set serial port connection settings as well. The format is as follows:
+Once installed, the configuration file, `/etc/termnetd.conf`, can be edited to
+configure which serial port maps to which network port. It can be used to set
+serial port connection settings as well. The format is as follows:
 
     <IP port>:<state>:<device>:<termios options>;
 
